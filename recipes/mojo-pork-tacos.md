@@ -1,5 +1,7 @@
 # Mojo Pork Tacos
 
+![Mojo pork](../images/mojopork.png)
+
 Slow-cooked mojo pork, shredded and then browned with onions, pork fat, and the concentrated cooking liquid.
 
 ## Ingredients
