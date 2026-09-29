@@ -1,6 +1,6 @@
 # Tuna Casserole
 
-A baked tuna and noodle casserole with cheddar, Parmesan, and your choice of crunchy topping.
+A baked tuna and noodle casserole with cheddar, parmesan, and your choice of crunchy topping.
 
 ## Ingredients
 
